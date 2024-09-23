@@ -9,11 +9,11 @@ body{
 }
 .header{
   height: 50px;
-  background: #232;
+  background: rgb(255, 255, 255);
 }
 .main{
   height: calc(100vh - 50px);
-  background: #453;
+  background: rgb(255, 255, 255);
 }
 .developer-photo{
   widh: 170px;
